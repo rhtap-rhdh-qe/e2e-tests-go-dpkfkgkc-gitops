@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/e2e-tests-go-dpkfkgkc:1668fff70ca78f837da6b82f44b2b73fa3e7d0b7
+        - image: quay.io/rhtap_qe/e2e-tests-go-dpkfkgkc:270d0752fc0afea0d9cb974e3198031d04e7c2c0
           name: container-image
